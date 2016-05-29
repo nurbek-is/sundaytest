@@ -2,3 +2,6 @@ p : @font-face {
   30 px,
   font-style: italic;
 }
+header : @font-face {
+  border-collapse: collapse;
+}
