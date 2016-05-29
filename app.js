@@ -1,2 +1,1 @@
-prompt
- 
+var question= prompt ('what up');
